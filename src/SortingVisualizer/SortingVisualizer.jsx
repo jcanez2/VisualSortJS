@@ -3,7 +3,7 @@ import React from "react";
 import { getMergeSortAnimations } from "../sortingAlgorithms/sortingAlgorithms.js";
 import "./SortingVisualizer.css";
 
-const ANIMATION_SPEED_MS = 1;
+const ANIMATION_SPEED_MS = 3;
 
 const NUMBER_OF_ARRAY_BARS = 50;
 
