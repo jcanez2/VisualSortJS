@@ -4,9 +4,12 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="App">
-      <SortingVisualizer></SortingVisualizer>
-    </div>
+    <h1>VISUAL SORTER</h1> >
+    (
+      <div className="App">
+        <SortingVisualizer></SortingVisualizer>
+      </div>
+    )
   );
 }
 
