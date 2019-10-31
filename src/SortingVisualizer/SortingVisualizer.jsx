@@ -5,7 +5,7 @@ import "./SortingVisualizer.css";
 
 const ANIMATION_SPEED_MS = 1;
 
-const NUMBER_OF_ARRAY_BARS = 100;
+const NUMBER_OF_ARRAY_BARS = 50;
 
 const PRIMARY_COLOR = `black`;
 
